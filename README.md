@@ -4,7 +4,7 @@ A project on Face Detection in a local image from PC and webcam live feed using 
 
 
 ## Description:
-The app consists of sidebar with dropdown of option Home, Upload and Display, Face Detection in pic and Face Detection cam. 
+The app consists of sidebar with dropdown of options such as Home, Upload and Display, Face Detection in pic and Face Detection cam. 
 + Home : Diplays the admin picture and application objective
 + Upload and Display: Asks to upload pic from the local files and display it.
 + Face Detection in pic: Asks to upload pic from local files and display it with bounding box drawn around the face if detected.
